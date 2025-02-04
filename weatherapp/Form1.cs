@@ -26,10 +26,10 @@ namespace weatherapp
             String translateMoon(string phase)
             {
                 string newPhase = "";
-                if (phase is "New Moon") { newPhase = "Jauns Mçness"; }
-                if (phase is "Waxing Crescent" or "First Quarter" or "Waxing Gibbous") { newPhase = "Augoðs Mçness"; }
-                if (phase is "Full Moon") { newPhase = "Pilns Mçness"; }
-                if (phase is "Waning Gibbous" or "Third Quarter" or "Waning Crescent") { newPhase = "Dilstoðs Mçness"; }
+                if (phase is "New Moon") { newPhase = "Jauns MÄ“ness"; }
+                if (phase is "Waxing Crescent" or "First Quarter" or "Waxing Gibbous") { newPhase = "AugoÅ¡s MÄ“ness"; }
+                if (phase is "Full Moon") { newPhase = "Pilns MÄ“ness"; }
+                if (phase is "Waning Gibbous" or "Third Quarter" or "Waning Crescent") { newPhase = "DilstoÅ¡s MÄ“ness"; }
                 return newPhase;
             }
             try
@@ -44,8 +44,8 @@ namespace weatherapp
                 string pic = getData(doc, "icon");
                 string teksts = getData(doc, "text");
                 mnF.Text = translateMoon(moonPhase);
-                tMax.Text = tempMax + "°C";
-                tMin.Text = tempMin + "°C";
+                tMax.Text = tempMax + "Â°C";
+                tMin.Text = tempMin + "Â°C";
                 mitr.Text = humidity + "%";
                 wSpd.Text = windSp + "km/h";
                 press.Text = atm + "mb";
@@ -53,7 +53,7 @@ namespace weatherapp
                 apraksts.Text = teksts;
             }
             catch (Exception HttpRequestException) {
-                MessageBox.Show("Nezinâma Pilsçta");
+                MessageBox.Show("NezinÃ¢ma PilsÃ§ta");
             }
             return;
         }
