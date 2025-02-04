@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\weatherapp\weatherapp\bin\Debug\net8.0-windows\weatherapp.exe
+C:\Users\User\source\repos\weatherapp\weatherapp\bin\Debug\net8.0-windows\weatherapp.deps.json
+C:\Users\User\source\repos\weatherapp\weatherapp\bin\Debug\net8.0-windows\weatherapp.runtimeconfig.json
+C:\Users\User\source\repos\weatherapp\weatherapp\bin\Debug\net8.0-windows\weatherapp.dll
+C:\Users\User\source\repos\weatherapp\weatherapp\bin\Debug\net8.0-windows\weatherapp.pdb
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.Properties.Resources.resources
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.AssemblyInfo.cs
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.dll
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\refint\weatherapp.dll
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.pdb
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.genruntimeconfig.cache
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\ref\weatherapp.dll
+C:\Users\User\source\repos\weatherapp\weatherapp\obj\Debug\net8.0-windows\weatherapp.Form1.resources
