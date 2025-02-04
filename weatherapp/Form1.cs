@@ -53,7 +53,7 @@ namespace weatherapp
                 apraksts.Text = teksts;
             }
             catch (Exception HttpRequestException) {
-                MessageBox.Show("Nezinâma Pilsçta");
+                MessageBox.Show("Nezināma Pilsēta");
             }
             return;
         }
